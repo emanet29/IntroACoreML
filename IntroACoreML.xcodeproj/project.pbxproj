@@ -13,6 +13,7 @@
 		4C61212720E8FFDF0089B4E8 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 4C61212620E8FFDF0089B4E8 /* Assets.xcassets */; };
 		4C61212A20E8FFDF0089B4E8 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4C61212820E8FFDF0089B4E8 /* LaunchScreen.storyboard */; };
 		4C61213220E9060D0089B4E8 /* CameraExtension.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C61213120E9060D0089B4E8 /* CameraExtension.swift */; };
+		4C61213420ED2DAD0089B4E8 /* LibrairieExtension.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C61213320ED2DAD0089B4E8 /* LibrairieExtension.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		4C61212920E8FFDF0089B4E8 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		4C61212B20E8FFDF0089B4E8 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		4C61213120E9060D0089B4E8 /* CameraExtension.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CameraExtension.swift; sourceTree = "<group>"; };
+		4C61213320ED2DAD0089B4E8 /* LibrairieExtension.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LibrairieExtension.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +65,7 @@
 				4C61212820E8FFDF0089B4E8 /* LaunchScreen.storyboard */,
 				4C61212B20E8FFDF0089B4E8 /* Info.plist */,
 				4C61213120E9060D0089B4E8 /* CameraExtension.swift */,
+				4C61213320ED2DAD0089B4E8 /* LibrairieExtension.swift */,
 			);
 			path = IntroACoreML;
 			sourceTree = "<group>";
@@ -141,6 +144,7 @@
 				4C61212220E8FFDE0089B4E8 /* ViewController.swift in Sources */,
 				4C61212020E8FFDE0089B4E8 /* AppDelegate.swift in Sources */,
 				4C61213220E9060D0089B4E8 /* CameraExtension.swift in Sources */,
+				4C61213420ED2DAD0089B4E8 /* LibrairieExtension.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
