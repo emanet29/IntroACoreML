@@ -15,6 +15,7 @@
 		4C61213220E9060D0089B4E8 /* CameraExtension.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C61213120E9060D0089B4E8 /* CameraExtension.swift */; };
 		4C61213420ED2DAD0089B4E8 /* LibrairieExtension.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C61213320ED2DAD0089B4E8 /* LibrairieExtension.swift */; };
 		4C61213720ED31D00089B4E8 /* MobileNet.mlmodel in Sources */ = {isa = PBXBuildFile; fileRef = 4C61213620ED31D00089B4E8 /* MobileNet.mlmodel */; };
+		4C61213920ED32440089B4E8 /* CoreMLExtension.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C61213820ED32440089B4E8 /* CoreMLExtension.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -28,6 +29,7 @@
 		4C61213120E9060D0089B4E8 /* CameraExtension.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CameraExtension.swift; sourceTree = "<group>"; };
 		4C61213320ED2DAD0089B4E8 /* LibrairieExtension.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LibrairieExtension.swift; sourceTree = "<group>"; };
 		4C61213620ED31D00089B4E8 /* MobileNet.mlmodel */ = {isa = PBXFileReference; lastKnownFileType = file.mlmodel; path = MobileNet.mlmodel; sourceTree = "<group>"; };
+		4C61213820ED32440089B4E8 /* CoreMLExtension.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CoreMLExtension.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -69,6 +71,7 @@
 				4C61212B20E8FFDF0089B4E8 /* Info.plist */,
 				4C61213120E9060D0089B4E8 /* CameraExtension.swift */,
 				4C61213320ED2DAD0089B4E8 /* LibrairieExtension.swift */,
+				4C61213820ED32440089B4E8 /* CoreMLExtension.swift */,
 			);
 			path = IntroACoreML;
 			sourceTree = "<group>";
@@ -157,6 +160,7 @@
 				4C61212020E8FFDE0089B4E8 /* AppDelegate.swift in Sources */,
 				4C61213220E9060D0089B4E8 /* CameraExtension.swift in Sources */,
 				4C61213420ED2DAD0089B4E8 /* LibrairieExtension.swift in Sources */,
+				4C61213920ED32440089B4E8 /* CoreMLExtension.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
